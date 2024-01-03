@@ -4,4 +4,6 @@ except it corresponds to Venus's actual movement in the night sky over an 8-year
 cycle) in which Venus's orbit along with its retrograde motion results in a
 beautiful roselike pattern.
 
+Demo: https://pacobell15.neocities.org/programs/dance_of_the_planets/venus
+
 All code is in the public domain.
